@@ -1,239 +1,112 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:203A43,100:2C5364&text=Sanat%20Mehrotra&fontSize=46&fontColor=E6F9FF&fontAlignY=35&desc=Backend%20Engineer%20%C2%B7%20RAG%20Systems%20%C2%B7%20Full-Stack%20Builder&descAlignY=55&descSize=18&animation=fadeIn" alt="Header banner: Sanat Mehrotra — Backend Engineer, RAG Systems, Full-Stack Builder" width="100%"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:f59e0b&height=210&section=header&text=Sanat%20Mehrotra&fontSize=56&fontColor=f8fafc&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Builder&descAlignY=63&descAlign=50&descSize=19&descColor=cbd5e1"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+RAG+pipelines+%26+hybrid+retrieval;FastAPI+%2B+Next.js+%2B+PostgreSQL;Core+Team+%40+GDG+on+Campus+SRM;Always+shipping+something+new" alt="Building RAG pipelines & hybrid retrieval — FastAPI + Next.js + PostgreSQL — Core Team @ GDG on Campus SRM — always shipping something new" />
+</p>
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanat-mehrotra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mehrotrasanat2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://leetcode.com/u/mehrotrasanat2006/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://github.com/sanatmehrotra"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
-<div align="center">
+## 👋 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/sanat-mehrotra-4aa6442a6)&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-f8fafc?style=flat-square&logo=github&logoColor=0f172a&labelColor=f8fafc)](https://github.com/sanatmehrotra)&nbsp;&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-f59e0b?style=flat-square&logo=leetcode&logoColor=0f172a&labelColor=f59e0b)](https://leetcode.com/mehrotrasanat2006/)&nbsp;&nbsp;
-[![GeeksForGeeks](https://img.shields.io/badge/GFG-2f8d46?style=flat-square&logo=geeksforgeeks&logoColor=white&labelColor=2f8d46)](https://www.geeksforgeeks.org/user/mehrotrasrnz9/)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-0ea5e9?style=flat-square&logo=gmail&logoColor=white&labelColor=0ea5e9)](mailto:mehrotrasanat2006@gmail.com)&nbsp;&nbsp;
-![Views](https://komarev.com/ghpvc/?username=sanatmehrotra&style=flat-square&color=0ea5e9&label=profile+views)
+- 🚀 Building **RAG pipelines** & AI-driven backends — hybrid retrieval, multimodal ingestion, the works
+- 🛠️ Currently shipping FastAPI services @ **Zeroto10.ai**
+- 🎓 Final-year CSE student @ SRM Institute of Science & Technology
+- 🌱 Core Team Member @ **GDG on Campus SRM** — designing technical rounds & running events for 250+ devs
+- ⚡ Fun fact: I'd rather debug a retrieval pipeline at 2 AM than sleep
 
-</div>
+## 🧰 Tech Stack
 
-<br/>
+**Languages**
 
-<div align="center">
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=0ea5e9&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=40&lines=Pre-final+Year+CS+%40+SRM+Delhi-NCR;Building+AI-powered+products+that+ship;India+Innovates+2026+%E2%80%94+Top+5K+%2F+26K%2B;FastAPI+%C2%B7+Next.js+%C2%B7+%C2%B7+PostGIS" alt="Typing SVG" />
+**Frameworks & Frontend**
 
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
----
+**AI / ML**
 
-## `who am i`
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge)
+![Cohere](https://img.shields.io/badge/Cohere-39594C?style=for-the-badge)
 
-<table>
-<tr>
-<td width="58%" valign="top">
+**Data & Cloud**
 
-**Sanat Mehrotra** — pre-final year CS undergrad at SRM IST Delhi-NCR, building things that actually matter.
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-I spend most of my time shipping AI-powered products, designing distributed backends, and contributing to developer communities. I don't just attend events — I help run them.
+**Tools**
 
-Currently deep in: FastAPI production pipelines, geospatial data with PostGIS, and agentic AI workflows.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-```
-📍  Delhi-NCR, India
-🎓  B.Tech CSE @ SRM IST (2023–2027)
-🏆  India Innovates 2026 — Top 5K / 26K+
-🌐  GDG on Campus SRM — Technical Lead
-📬  mehrotrasanat2006@gmail.com
-```
+## 🚧 Featured Projects
 
-</td>
-<td width="42%" align="center">
+<p align="center">
+  <a href="https://github.com/sanatmehrotra/QueryMind">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanatmehrotra&repo=QueryMind&theme=tokyonight&hide_border=true" alt="QueryMind — multimodal RAG document Q&A system repo card" />
+  </a>
+</p>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%"/>
+<p align="center"><em>Full-stack multimodal RAG platform: 7-stage hybrid retrieval (pgvector HNSW + BM25 + RRF + MMR + Cohere rerank), async ingestion with Gemini Vision captioning, streaming chat UI.</em></p>
 
-</td>
-</tr>
-</table>
+| Project | What it does | Stack |
+|---|---|---|
+| 🐾 **[PawAlert](https://paw-alert.onrender.com)** | AI stray-animal rescue platform — Gemini Vision injury scoring + PostGIS-routed NGO dispatch + live-tracking PWA. Top 5,000 of 26,000+ at India Innovates 2026. | Next.js · Supabase · PostGIS · Gemini Vision |
+| 🏆 **Automated Round Judging Tool** | Inception v3 image-similarity judge for GDG competition submissions, with a Gradio UI deployed on HF Spaces. | TensorFlow · Gradio |
 
----
+## 📊 GitHub Stats
 
-## 🛠️ Stack
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sanatmehrotra&show_icons=true&theme=tokyonight&hide_border=true" alt="Sanat Mehrotra's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanatmehrotra&layout=compact&theme=tokyonight&hide_border=true" alt="Sanat Mehrotra's most used languages" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanatmehrotra&theme=tokyonight&hide_border=true" alt="Sanat Mehrotra's GitHub contribution streak" />
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-f59e0b?style=flat-square&logo=javascript&logoColor=0f172a)
-![TypeScript](https://img.shields.io/badge/TypeScript-0ea5e9?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0ea5e9?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-475569?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-475569?style=flat-square&logo=c&logoColor=white)
+<details>
+  <summary>🏅 Achievements, conferences & certifications</summary>
+  <br>
 
-![Next.js](https://img.shields.io/badge/Next.js_14-f8fafc?style=flat-square&logo=nextdotjs&logoColor=0f172a)
-![React](https://img.shields.io/badge/React-0ea5e9?style=flat-square&logo=react&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-0ea5e9?style=flat-square&logo=tailwindcss&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0f766e?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-16a34a?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-475569?style=flat-square&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-f8fafc?style=flat-square&logo=socketdotio&logoColor=0f172a)
+**Competitions:** India Innovates 2026 — Top 5,000 of 26,000+ (Bharat Mandapam) · HackIndia Web3 Hackathon — 11th/40 teams · HackHacks — 15th/42 teams (Cluster Innovation Centre, University of Delhi)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0ea5e9?style=flat-square&logo=postgresql&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-0369a1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-0f766e?style=flat-square&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-16a34a?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-f59e0b?style=flat-square&logo=firebase&logoColor=0f172a)
+**Conferences:** India AI Impact Summit 2026 (Govt. of India) · GitTogether — GitHub & Microsoft India · GDSC WOW (IIIT-Delhi) · Cybersecurity Workshop (SRMIST-NCR) · EHAX CTF
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-f59e0b?style=flat-square&logo=tensorflow&logoColor=0f172a)
-![PyTorch](https://img.shields.io/badge/PyTorch-dc2626?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-f59e0b?style=flat-square&logo=huggingface&logoColor=0f172a)
-![Gemini Vision](https://img.shields.io/badge/Gemini_Vision_API-0ea5e9?style=flat-square&logo=google&logoColor=white)
+**Certifications:** Azure Fundamentals (Microsoft) · IBM Data Analytics (IBM) · Google Arcade — Cohorts 1 & 2
 
-![Git](https://img.shields.io/badge/Git-dc2626?style=flat-square&logo=git&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0ea5e9?style=flat-square&logo=microsoftazure&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-475569?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-7c3aed?style=flat-square&logo=pwa&logoColor=white)
+**Leadership:** GDG on Campus SRM — organized Prompt Rush 2.0 and AutoCoder 2.0 (250+ participants each), secured two in-kind sponsors; Event Organiser Award, India AI Impact Summit 2026 (Mar 2026)
 
-</div>
+</details>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanatmehrotra&label=Profile%20Views&color=2C5364&style=for-the-badge" alt="Profile view counter" />
+</p>
 
-## 🚀 Projects
-
-### 🐾 PawAlert — *The 911 for India's Strays*
-
-> Presented at **India Innovates 2026, Bharat Mandapam** &nbsp;·&nbsp; **Top 5,000 of 26,000+ registrations**
-
-`Next.js 14` `TypeScript` `Supabase` `PostGIS` `Gemini Vision API` `Socket.io` `Telegram Bot API`
-
-India's first AI-powered stray animal rescue coordination platform. A citizen snaps a photo → Gemini Vision scores injury severity (1–10) → nearest verified NGO van dispatched via PostGIS geospatial routing → live GPS tracking from dispatch through shelter admission. The entire flow works end-to-end inside a Telegram Bot — no web app needed for citizens, NGOs, or drivers.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0f172a?style=for-the-badge&logo=vercel&logoColor=0ea5e9)](https://paw-alert.onrender.com/)&nbsp;
-[![GitHub](https://img.shields.io/badge/Source-0f172a?style=for-the-badge&logo=github&logoColor=f8fafc)](https://github.com/sanatmehrotra/paw-alert)
-
----
-
-### ⚖️ Automated Round Judging Tool — GDG on Campus SRM
-
-> ML-powered image similarity scoring for automated hackathon judging · **Live on Hugging Face Spaces**
-
-`Python` `TensorFlow` `Inception v3` `Gradio` `Hugging Face`
-
-Upload a prompt, an original image, and a CSV of participant submissions — the model uses Inception v3 feature extraction to score perceptual similarity for each team automatically. Built and deployed for real judging rounds at GDG SRM events.
-
-[![HF Spaces](https://img.shields.io/badge/Live_on_HF_Spaces-0f172a?style=for-the-badge&logo=huggingface&logoColor=f59e0b)](https://huggingface.co/spaces/sanatmeh0932/check)
-
----
-
-### 📒 Contact Management API
-
-> Full-stack CRUD app with JWT auth and modular REST backend
-
-`Node.js` `Express` `MongoDB` `EJS` `JWT`
-
-Production-pattern REST API with role-based JWT authentication, full CRUD operations, and a server-rendered frontend. Built to understand modular API architecture end-to-end.
-
-[![GitHub](https://img.shields.io/badge/Source-0f172a?style=for-the-badge&logo=github&logoColor=f8fafc)](https://github.com/sanatmehrotra/mycontacts-Backend)
-
----
-
-## 🏅 Hackathons
-
-<div align="center">
-
-| | Hackathon | Result |
-|:---:|---|---|
-| 🥇 | **India Innovates 2026** — Bharat Mandapam, New Delhi | Top 5,000 / 26,000+ |
-| 🌐 | **HackIndia Web3 Hackathon** | 11th / 40 Teams |
-| 💻 | **HackHacks** — Cluster Innovation Centre, Delhi University | 15th / 42 Teams |
-
-</div>
-
----
-
-## 🎙️ Extra-Curricular
-
-### GDG on Campus SRM &nbsp;—&nbsp; Technical Lead
-
-- Organized developer events with **250+ participants** across sessions
-- Designed and conducted **technical rounds** for hackathons and competitions
-- Built the [Automated Round Judging Tool](https://huggingface.co/spaces/sanatmeh0932/check) to automate hackathon evaluation for GDG events
-
-### Conferences & Workshops Attended
-
-| Year | Event | Venue |
-|------|-------|-------|
-| 2026 | **India AI Impact Summit 2026** — Global AI summit, Govt. of India | Bharat Mandapam, New Delhi |
-| 2025 | **ETHGlobal New Delhi 2025** — 36-hr Ethereum & Web3 hackathon | Yashobhoomi, New Delhi |
-| 2025 | **India Mobile Congress 2025** — Asia's largest telecom & tech expo | Yashobhoomi, New Delhi |
-| 2025 | **GitTogether Delhi NCR** — GitHub community developer meetup | Microsoft Noida, NCR |
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanatmehrotra&layout=compact&hide_border=true&langs_count=8&theme=dark&title_color=0ea5e9&text_color=94a3b8&card_width=400" height="160"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sanatmehrotra&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=0ea5e9&fire=f59e0b&currStreakLabel=0ea5e9&sideLabels=94a3b8&sideNums=f8fafc&currStreakNum=f8fafc&dates=64748b"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanatmehrotra&theme=react-dark&hide_border=true&area=true&color=0ea5e9&line=0ea5e9&point=f59e0b&area_color=0ea5e9"/>
-
-</div>
-
----
-
-## 🎯 Coding Profiles
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" valign="top">
-
-**LeetCode**
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/mehrotrasanat2006?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=8)](https://leetcode.com/mehrotrasanat2006/)
-
-</td>
-<td align="center" valign="top">
-
-**GeeksForGeeks**
-
-[![GFG Stats](https://geeks-for-geeks-stats-card.vercel.app/?username=mehrotrasrnz9&theme=dark)](https://www.geeksforgeeks.org/user/mehrotrasrnz9/)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🎓 Certifications
-
-<div align="center">
-
-![Azure Fundamentals](https://img.shields.io/badge/AZ--900_Azure_Fundamentals-0ea5e9?style=flat-square&logo=microsoftazure&logoColor=white)
-![IBM Data Analytics](https://img.shields.io/badge/IBM_Data_Analytics-0f172a?style=flat-square&logo=ibm&logoColor=0ea5e9)
-![HackerRank](https://img.shields.io/badge/HackerRank_Python_%26_Java-0f766e?style=flat-square&logo=hackerrank&logoColor=white)
-![Google Cloud Arcade](https://img.shields.io/badge/Google_Cloud_Arcade-0ea5e9?style=flat-square&logo=googlecloud&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-*Open to internships, collabs, and ideas worth shipping.*&nbsp;&nbsp;**[→ Drop a mail](mailto:mehrotrasanat2006@gmail.com)**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,50:0ea5e9,100:0f172a&height=120&section=footer"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2C5364,100:0F2027&section=footer" alt="Footer wave" width="100%"/>
+</p>
